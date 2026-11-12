@@ -1,0 +1,135 @@
+---
+pagetitle: "Kuchenbecker Seminar Moderator Slides"
+lang: en
+format:
+  revealjs:
+    theme: [default, cpp.scss]
+    width: 1600
+    height: 900
+    margin: 0
+    center: false
+    slide-number: c/t
+    show-slide-number: all
+    footer: "Cal Poly Pomona | Center for Customer Insights & Digital Marketing"
+    transition: fade
+    transition-speed: fast
+    hash-type: number
+    embed-resources: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+##  {.cover background-color="#005030"}
+
+::: cover-grid
+![](images/seminar-flyer.jpg){.cover-flyer
+fig-alt="Seminar flyer: From Student to Professor, Dr. Cailin Kuchenbecker, Thursday November 12, 11:30 AM to 12:45 PM on Zoom"}
+
+![](images/cba-campus.jpg){.cover-photo
+fig-alt="College of Business Administration building at Cal Poly Pomona at dusk"}
+:::
+
+##  {.rail-slide}
+
+::: rail
+![](images/cpp-icon-green.png){.rail-logo fig-alt="Cal Poly Pomona"}
+:::
+
+::::: agenda-grid
+::: agenda-label
+Agenda
+:::
+
+::: agenda-items
+- [Leeann Lewis-Waddell]{.lead}
+  - Digital Marketing Specialist, Moderator
+- [Recording Notice]{.lead}
+  - CCIDM YouTube On-Demand
+- [Microphones should be muted.]{.lead}
+- [Questions]{.lead}
+  - Please add questions to the chat.
+  - Q & A at 12:30 PM, after the presentation.
+  - Emoticons are welcome!
+:::
+:::::
+
+##  {.rail-slide}
+
+::: rail
+![](images/cpp-icon-green.png){.rail-logo fig-alt="Cal Poly Pomona"}
+:::
+
+:::::::::: program
+::: eyebrow
+Today's Program · Thursday, November 12 · Zoom
+:::
+
+:::::::: runlist
+::: run
+[11:30]{.time} [Greetings and Introduction to Dr. Kuchenbecker]{.what}
+:::
+
+::: run
+[11:40]{.time} [Dr. Kuchenbecker's research program and a sample
+presentation]{.what}
+:::
+
+::: run
+[12:10]{.time} [Journey from a Student to Professor]{.what}
+:::
+
+::: run
+[12:30]{.time} [Q & A]{.what}
+:::
+
+::: {.run .end}
+[12:45]{.time} [End]{.what}
+:::
+::::::::
+::::::::::
+
+##  {.rail-slide}
+
+::: rail
+![](images/cpp-icon-green.png){.rail-logo fig-alt="Cal Poly Pomona"}
+:::
+
+:::::: speaker-grid
+:::: speaker-text
+[Dr. Cailin Kuchenbecker]{.speaker-name}
+
+[Assistant Professor, Department of Communications]{.speaker-role}
+[California State University, Fullerton]{.speaker-role}
+
+Dr. Kuchenbecker teaches public relations, advertising, and strategic
+communication. Her research in strategic, health, and crisis
+communication examines how persuasive messages can promote public
+health, safety, and social well-being.
+
+::: bg-label
+Background
+:::
+
+- Ph.D. in Communication, Chapman University
+- M.B.A. and B.S. in Communication, Cal Poly Pomona
+- Multiple Top Paper awards, Eastern Communication Association
+::::
+
+::: speaker-photo
+![](images/kuchenbecker-headshot.jpg){fig-alt="Headshot of Dr. Cailin Kuchenbecker"}
+:::
+::::::
+
+##  {.qa background-color="#005030"}
+
+::: qa-wrap
+![](images/ccidm-logo-gold.png){.qa-logo
+fig-alt="Cal Poly Pomona College of Business Administration, Center for Customer Insights and Digital Marketing"}
+
+[Q & A]{.qa-title}
+
+[Please add your questions to the chat.]{.qa-sub}
+
+[Thank you for joining the CCIDM Research Seminar Series.]{.qa-note}
+:::
