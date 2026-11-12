@@ -25,7 +25,7 @@ editor:
 ::: cover-grid
 <!-- translateY moves the flyer up; raise to -80px for less top space, stay under -100px -->
 
-![](images/seminar-flyer.jpg){.cover-flyer
+![](images/KUCHENBECKER GRAPHIC2.png){.cover-flyer
 style="object-position: center top; transform: translateY(-50px);"
 fig-alt="Seminar flyer: From Student to Professor, Dr. Cailin Kuchenbecker, Thursday November 12, 11:30 AM to 12:45 PM on Zoom"}
 
